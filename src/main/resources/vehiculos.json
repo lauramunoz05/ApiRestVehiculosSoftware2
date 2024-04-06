@@ -1,0 +1,21 @@
+[
+    {
+        "placa": "ABC123",
+        "marca": "Chevrolet",
+        "modelo": "Spark GT",
+        "año": 2023,
+        "color": "Rojo",
+        "precio": 50000000
+    },
+
+    {
+        "placa": "HJK555",
+        "marca": "Reanault",
+        "modelo": "Duster",
+        "año": 2022,
+        "color": "Blanco",
+        "precio": 65000000
+    }
+
+
+]
